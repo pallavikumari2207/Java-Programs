@@ -38,7 +38,7 @@ public class Util {
 		if(name.length()>3)
 		{
 			String str="Hello <<UserName>> How are you? ";
-			 String[] uname = name.split(",");
+			 String[] uname = name.split(" ");
 			 str1=str.replace("<<UserName>>",uname[0]);
 		}
 	else
