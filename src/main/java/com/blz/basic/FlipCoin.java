@@ -7,8 +7,8 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
 import com.blz.log.Customizedexception;
-import com.blz.util.Util;
-import com.blz.utility.InputUtility;
+import com.blz.utils.InputUtility;
+import com.blz.utils.Util;
 
 public class FlipCoin {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.blz.utility;
+package com.blz.utils;
 
 import java.util.Scanner;
 

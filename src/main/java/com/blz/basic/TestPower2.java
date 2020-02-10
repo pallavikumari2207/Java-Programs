@@ -1,21 +1,25 @@
 package com.blz.basic;
 
 import static org.junit.Assert.*;
-import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.Test;
 
 import com.blz.log.Customizedexception;
 import com.blz.utils.Util;
 
-public class TestLeap {
+public class TestPower2 {
 
 	@Test(expected=Customizedexception.class)
-	public void testForException() throws Customizedexception {
-		Util.leapyr(123);
+	public void testofException() throws Customizedexception {
+		Util.powerfunc(-1);
+		
 	}
 	@Test
 	public void test() throws Customizedexception {
-		assertTrue(Util.leapyr(2020));
+		int[] expected= {1,2,4,8};
+		int[] actual=Util.powerfunc(4);
+		assertArrayEquals(expected, actual);
 	}
+	
+
 }

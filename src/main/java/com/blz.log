@@ -1,0 +1,17 @@
+2020-02-41 12:38:59 [main] INFO  com.blz.functional.sumToZero  -enter year:
+2020-02-41 12:40:05 [main] INFO  com.blz.functional.sumToZero  -enter year:
+2020-02-41 12:41:15 [main] INFO  com.blz.functional.sumToZero  -enter n:
+2020-02-41 12:42:41 [main] INFO  com.blz.functional.sumToZero  -enter n:
+2020-02-41 12:45:06 [main] INFO  com.blz.functional.sumToZero  -enter n:
+2020-02-41 12:46:06 [main] INFO  com.blz.functional.sumToZero  -enter n:
+2020-02-41 12:47:08 [main] INFO  com.blz.functional.sumToZero  -enter n:
+2020-02-41 12:47:19 [main] ERROR com.blz.functional.sumToZero  -com.blz.log.Customizedexception: n should be minimum of three
+2020-02-41 12:47:38 [main] INFO  com.blz.functional.sumToZero  -enter n:
+2020-02-41 12:50:19 [main] INFO  com.blz.functional.sumToZero  -enter n:
+2020-02-41 12:51:54 [main] INFO  com.blz.functional.sumToZero  -enter n:
+2020-02-41 12:52:33 [main] INFO  com.blz.functional.sumToZero  -enter n:
+2020-02-41 12:53:54 [main] INFO  com.blz.functional.sumToZero  -enter n:
+2020-02-41 12:54:07 [main] INFO  com.blz.functional.sumToZero  -enter n:
+2020-02-41 13:01:22 [main] INFO  com.blz.functional.sumToZero  -enter n:
+2020-02-41 13:02:47 [main] INFO  com.blz.functional.sumToZero  -enter n:
+2020-02-41 16:30:59 [main] INFO  com.blz.functional.sumToZero  -enter n:
